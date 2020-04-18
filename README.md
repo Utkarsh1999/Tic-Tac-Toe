@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple Tic Tac Toe React Apii
+A simple Tic Tac Toe React App
